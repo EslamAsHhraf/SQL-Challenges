@@ -1,3 +1,7 @@
+/* 
+Working platform:- Oracle
+*/
+
 select
     Doctor,
     Professor,
@@ -16,6 +20,7 @@ from (
                 Name,
                 row_number() over(partition by Occupation order by Name ASC) as NameOrder
             from Occupations
-         ) as NameLists
-    group by NameOrder
-    ) as Names
+         )  NameLists
+    group by NameOrder 
+    order by NameOrder asc
+    )  Names;
