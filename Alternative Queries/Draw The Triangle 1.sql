@@ -1,3 +1,6 @@
+/* 
+Working platform:- Oracle
+*/
 set serveroutput on;
 DECLARE
 I NUMBER; -- redundant
