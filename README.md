@@ -21,7 +21,7 @@
   - <a href ="#Aggregation">  Aggregation</a>
   - <a href ="#Basic_Join"> Basic Join</a>
   - <a href ="#Alternative_Queries"> Alternative Queries </a>
-- <a href ="#Contributors"> ✨ Contributors</a>
+- <a href ="#contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
@@ -114,7 +114,7 @@
 |    3   | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)             | [SQL](Alternative%20Queries/Print%20Prime%20Numbers.sql)               |
 
 <hr style="background-color: #4b4c60"></hr>
-<a id ="Contributors"></a>
+<a id ="contributors"></a>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
 
