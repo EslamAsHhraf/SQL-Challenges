@@ -16,11 +16,11 @@
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#domains"> 🗳️ Domains</a>
-    - <a href ="#Basic_Select">  Basic Select</a>
-    - <a href ="#Advanced_Select"> Advanced Select</a>
-    - <a href ="#Aggregation">  Aggregation</a>
-    - <a href ="#Basic_Join"> Basic Join</a>
-    - <a href ="#Alternative_Queries"> Alternative Queries </a>
+  - <a href ="#Basic_Select">  Basic Select</a>
+  - <a href ="#Advanced_Select"> Advanced Select</a>
+  - <a href ="#Aggregation">  Aggregation</a>
+  - <a href ="#Basic_Join"> Basic Join</a>
+  - <a href ="#Alternative_Queries"> Alternative Queries </a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
