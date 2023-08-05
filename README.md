@@ -16,13 +16,13 @@
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#domains"> 🗳️ Domains</a>
-  - <a href ="#Basic_Select">  Basic Select</a>
+  - <a href ="#basic_select">  Basic Select</a>
   - <a href ="#Advanced_Select"> Advanced Select</a>
   - <a href ="#Aggregation">  Aggregation</a>
   - <a href ="#Basic_Join"> Basic Join</a>
   - <a href ="#Alternative_Queries"> Alternative Queries </a>
 - <a href ="#contributors"> ✨ Contributors</a>
-- <a href ="#License"> 🔒 License</a>
+- <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
@@ -37,7 +37,7 @@
 
 # <img align="center"  width =70px src="https://media4.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Domains
 
-<a id = "Basic_Select"></a>
+<a id = "basic_select"></a>
 
 ### Basic Select Challenges
 
@@ -127,7 +127,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-<a id ="License"></a>
+<a id ="license"></a>
 
 ## 🔒 License
 
