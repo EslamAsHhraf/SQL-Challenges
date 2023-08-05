@@ -1,11 +1,10 @@
-# <img  align="center" width= 60px  src="https://media0.giphy.com/media/ocVFpiaTCxly9SKDit/giphy.gif?cid=ecf05e474dcd6b16fb6zacuya6rd00a9l4fzqvls9039kdvc&ep=v1_stickers_search&rid=giphy.gif&ct=s">SQL Challenges
+# <img  align="center" width= 70px  src="https://media4.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> SQL Challenges
 
 <div align="center">
 
 <img width=700px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE4MWtkc3k4YnJ1ZWI3cnYxbXMwZzYxYWRrbHZybzlwYXE4Mm54OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif">
 <div align="center">
 
-### "Protect yourself from hacker attacking. 👨‍💻"
 
 </div>
 </div>
@@ -15,23 +14,22 @@
 ## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
-- <a href ="#analysis"> 📉 Encryption/Decryption Analysis</a>
+- <a href ="#domains"> 🗳️ Domains</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
 >
-# <img align="center"   width =60px src="https://media1.giphy.com/media/GP1TJJSV4Ys1r64q2A/giphy.gif?cid=ecf05e47ug1uei4avipz8fgx4e4s7lvmvwaub0bu68rew6rz&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Overview
+# <img align="center"  width =70px src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Overview
 
 <p>The solutions of  SQL challenges for  easy, medium and hard challenges on <a href="https://www.hackerrank.com/">HackerRank</a>  executed on MySQL environment compiled with helpful Resources & references related to the challenges.</p>
 
 
 <hr style="background-color: #4b4c60"></hr>
+<a id = "domains"></a>
 
-
-
-## Domains
+# <img align="center"  width =70px src="https://media4.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Domains
 
 ### Basic Select Challenges
 
@@ -100,6 +98,9 @@
 |    1   | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](Alternative%20Queries/Draw%20The%20Triangle%201.sql) |
 |    2   | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)             | [SQL](Alternative%20Queries/Draw%20The%20Triangle%202.sql)               |
 |    3   | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)             | [SQL](Alternative%20Queries/Print%20Prime%20Numbers.sql)               |
+
+<hr style="background-color: #4b4c60"></hr>
+<a id ="Contributors"></a>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
 
