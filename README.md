@@ -1,4 +1,4 @@
-# <img  align="center" width= 70px  src="https://media4.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> SQL Challenges
+# <img  align="center" width= 40px  src="https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png"> SQL Challenges
 
 <div align="center">
 
@@ -11,10 +11,17 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
+## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#domains"> 🗳️ Domains</a>
+    - <a href ="#Basic_Select">  Basic Select</a>
+    - <a href ="#Advanced_Select"> Advanced Select</a>
+    - <a href ="#Aggregation">  Aggregation
+</a>
+    - <a href ="#Basic_Join"> Basic Join</a>
+    - <a href ="#Alternative_Queries"> Alternative Queries </a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
@@ -30,6 +37,8 @@
 <a id = "domains"></a>
 
 # <img align="center"  width =70px src="https://media4.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Domains
+
+<a id = "Basic_Select"></a>
 
 ### Basic Select Challenges
 
@@ -56,6 +65,8 @@
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](Basic%20Select/Employee-Names.sql)
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](Basic%20Select/Employee-Salaries.sql)
 
+<a id = "Advanced_Select"></a>
+
 ### Advanced Select Challenges
 
 | Number | Challenges | Solutions |
@@ -67,6 +78,7 @@
 | 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
 
 
+<a id = "Aggregation"></a>
 
 ### Aggregation Challenges
 
@@ -81,7 +93,9 @@
 | 7 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2019.sql) |
 
 
-### Basic Join
+<a id = "Basic_Join"></a>
+
+### Basic Join Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
@@ -90,8 +104,9 @@
 | 3 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](Basic%20Join/Top%20Competitors.sql) |
 | 4 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](Basic%20Join/Ollivander's%20Inventory.sql) |
 | 5 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
+<a id = "Alternative_Queries"></a>
 
-### Alternative Queries
+### Alternative Queries Challenges
 
 | Number |                                     Challenges                                     |                      Solutions                     |
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
