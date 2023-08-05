@@ -17,10 +17,10 @@
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#domains"> 🗳️ Domains</a>
   - <a href ="#basic_select">  Basic Select</a>
-  - <a href ="#Advanced_Select"> Advanced Select</a>
-  - <a href ="#Aggregation">  Aggregation</a>
-  - <a href ="#Basic_Join"> Basic Join</a>
-  - <a href ="#Alternative_Queries"> Alternative Queries </a>
+  - <a href ="#advanced_select"> Advanced Select</a>
+  - <a href ="#aggregation">  Aggregation</a>
+  - <a href ="#basic_join"> Basic Join</a>
+  - <a href ="#alternative_queries"> Alternative Queries </a>
 - <a href ="#contributors"> ✨ Contributors</a>
 - <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
@@ -64,7 +64,7 @@
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](Basic%20Select/Employee-Names.sql)
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](Basic%20Select/Employee-Salaries.sql)
 
-<a id = "Advanced_Select"></a>
+<a id = "advanced_select"></a>
 
 ### Advanced Select Challenges
 
@@ -77,7 +77,7 @@
 | 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
 
 
-<a id = "Aggregation"></a>
+<a id = "aggregation"></a>
 
 ### Aggregation Challenges
 
@@ -92,7 +92,7 @@
 | 7 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2019.sql) |
 
 
-<a id = "Basic_Join"></a>
+<a id = "basic_join"></a>
 
 ### Basic Join Challenges
 
@@ -103,7 +103,7 @@
 | 3 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](Basic%20Join/Top%20Competitors.sql) |
 | 4 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](Basic%20Join/Ollivander's%20Inventory.sql) |
 | 5 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
-<a id = "Alternative_Queries"></a>
+<a id = "alternative_queries"></a>
 
 ### Alternative Queries Challenges
 
