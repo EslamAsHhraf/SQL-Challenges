@@ -11,7 +11,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 
 - <a href ="#about"> 📙 Overview</a>
@@ -27,7 +27,7 @@
 <a id = "about"></a>
 
 >
-# <img align="center"  width =70px src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Overview
+# 📙 Overview
 
 <p>The solutions of  SQL challenges for  easy, medium and hard challenges on <a href="https://www.hackerrank.com/">HackerRank</a>  executed on MySQL environment compiled with helpful Resources & references related to the challenges.</p>
 
@@ -35,7 +35,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "domains"></a>
 
-# <img align="center"  width =70px src="https://media4.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Domains
+# ✅ Domains
 
 <a id = "basic_select"></a>
 
@@ -116,7 +116,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id ="contributors"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
+## 👑 Contributors
 
 <br>
 <table >
